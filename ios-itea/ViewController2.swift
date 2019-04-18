@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController2: UIViewController {
-
+    //Mark Alex add to Git
     var testDigits2 = 0
     
     @IBOutlet weak var secondScreenLabel: UILabel!
