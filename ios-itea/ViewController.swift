@@ -27,6 +27,8 @@ class Faculty {
     }
 }
 
+//Tolyan4ik zdes'
+
 class ViewController: UIViewController {
     
     var testDigit = 55
