@@ -11,6 +11,7 @@ import UIKit
 
 //KIRIL
 // Slava
+//Lillia
 class TypeModel {
     var imageName: String?
     var typeName: String?
