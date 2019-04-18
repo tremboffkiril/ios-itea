@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+//KIRIL
 class TypeModel {
     var imageName: String?
     var typeName: String?
