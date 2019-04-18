@@ -14,6 +14,7 @@ import UIKit
 //Lillia
 //Alex
 //Tolyan4ik
+//Andrew
 class TypeModel {
     var imageName: String?
     var typeName: String?
