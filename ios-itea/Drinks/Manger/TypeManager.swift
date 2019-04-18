@@ -11,6 +11,7 @@ import UIKit
 
 class TypeManager {
     
+    // MASTER CHANGES
     var imageArray: [String] = ["image1", "image2", "image3", "image4"]
     var nameArray: [String] = ["Apple", "Google", "Yandex", "Yahoo"]
     
