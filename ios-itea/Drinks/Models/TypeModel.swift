@@ -10,6 +10,7 @@ import Foundation
 import UIKit
 
 //KIRIL
+// Slava
 class TypeModel {
     var imageName: String?
     var typeName: String?
