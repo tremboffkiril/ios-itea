@@ -16,7 +16,6 @@
 		9E5DB4B0225687940058EFD1 /* FirstCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5DB4AF225687940058EFD1 /* FirstCollectionViewCell.swift */; };
 		9E7EE2BB225FBBDC0074A5C4 /* SecondTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7EE2BA225FBBDC0074A5C4 /* SecondTableViewCell.swift */; };
 		9E7EE2BD225FC39B0074A5C4 /* ImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7EE2BC225FC39B0074A5C4 /* ImageTableViewCell.swift */; };
-		9E7EE2C22268DF5F0074A5C4 /* CompanyManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7EE2C12268DF5F0074A5C4 /* CompanyManager.swift */; };
 		9E7EE2C42268E0C50074A5C4 /* TypeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7EE2C32268E0C50074A5C4 /* TypeManager.swift */; };
 		9E7EE2C62268F6620074A5C4 /* GitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7EE2C52268F6620074A5C4 /* GitManager.swift */; };
 		9E923E76225BD15600214F8C /* CompanyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E923E75225BD15600214F8C /* CompanyModel.swift */; };
@@ -44,7 +43,6 @@
 		9E5DB4AF225687940058EFD1 /* FirstCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstCollectionViewCell.swift; sourceTree = "<group>"; };
 		9E7EE2BA225FBBDC0074A5C4 /* SecondTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTableViewCell.swift; sourceTree = "<group>"; };
 		9E7EE2BC225FC39B0074A5C4 /* ImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTableViewCell.swift; sourceTree = "<group>"; };
-		9E7EE2C12268DF5F0074A5C4 /* CompanyManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyManager.swift; sourceTree = "<group>"; };
 		9E7EE2C32268E0C50074A5C4 /* TypeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeManager.swift; sourceTree = "<group>"; };
 		9E7EE2C52268F6620074A5C4 /* GitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitManager.swift; sourceTree = "<group>"; };
 		9E923E75225BD15600214F8C /* CompanyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyModel.swift; sourceTree = "<group>"; };
@@ -155,7 +153,6 @@
 		9E7EE2BE2268DCAC0074A5C4 /* Manger */ = {
 			isa = PBXGroup;
 			children = (
-				9E7EE2C12268DF5F0074A5C4 /* CompanyManager.swift */,
 				9E7EE2C32268E0C50074A5C4 /* TypeManager.swift */,
 				9E7EE2C52268F6620074A5C4 /* GitManager.swift */,
 			);
@@ -288,7 +285,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3C8AB22236D45D00F83A3F /* ViewController.swift in Sources */,
-				9E7EE2C22268DF5F0074A5C4 /* CompanyManager.swift in Sources */,
 				9E923E76225BD15600214F8C /* CompanyModel.swift in Sources */,
 				9E3C8AB02236D45D00F83A3F /* AppDelegate.swift in Sources */,
 				9EC4B0182253CE9500EC0F37 /* FirstTableViewController.swift in Sources */,
